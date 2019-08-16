@@ -1,4 +1,3 @@
-
 # Convert and Compare Torch, ONNX, and CoreML Resnet50  
 The notebooks in this folder are code for, and notes about, converting a "standard" **PyTorch** **Resnet50** model to **CoreML**.  Because there is no direct conversion from Pytorch to CoreML,  ONNX is used as an intermediate format.  The conversion flow is:
 
@@ -101,8 +100,8 @@ A selection of images and the predictions made for them by each model is shown.
 - [onnx_coreml](https://github.com/onnx/onnx-coreml) to convert to CoreML
 - [onnxruntime](https://microsoft.github.io/onnxruntime/) for verification and debugging.
 - [coremltools](https://github.com/apple/coremltools) for verification and debugging and model editing
-- [coreml_help](https://github.com/mcsieber/coreml_help) (minor) Python helper tools that I wrote. A convenience. Not required.
-- [pred_help](https://github.com/mcsieber/coreml_help) (minor) More python helper tools. Not required.
+- [coreml_help](https://mcsieber.github.io/coreml_help.html) (minor) Python helper tools that I wrote. A convenience. Not required.
+- [pred_help](https://mcsieber.github.io/pred_help.html) More (minor) python helper tools. Not required.
 - [XCode 10](https://developer.apple.com/xcode/) to include the model in an iOS app and load the app onto my iPhone
 
 #### Helpful Books, Articles, Tutorials etc ...
@@ -111,7 +110,3 @@ A selection of images and the predictions made for them by each model is shown.
 - [How I Shipped a Neural Network on iOS with CoreML, PyTorch, and React Native](https://attardi.org/pytorch-and-coreml)
 - [raywenderlich.com](https://www.raywenderlich.com) for iOS sample apps and tutorials
 
-
-```python
-
-```
