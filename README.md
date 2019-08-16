@@ -106,7 +106,7 @@ A selection of images and the predictions made for them by each model is shown.
 
 #### Helpful Books, Articles, Tutorials etc ...
 
-- [**Core ML Survival Guide**](https://leanpub.com/coreml-survival-guide) by [*Matthijs Holleman*](https://github.com/hollance)  for real help with CoreML
+- [**Core ML Survival Guide**](https://leanpub.com/coreml-survival-guide) by [*Matthijs Hollemans*](https://github.com/hollance)  for real help with CoreML
 - [How I Shipped a Neural Network on iOS with CoreML, PyTorch, and React Native](https://attardi.org/pytorch-and-coreml)
 - [raywenderlich.com](https://www.raywenderlich.com) for iOS sample apps and tutorials
 
